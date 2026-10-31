@@ -1,5 +1,8 @@
-<br>
+<p align="center">
+  <img src="./portrait.webp" alt="Ryan Mahdavi: portrait in falling green code beside a terminal. code · sound · design. I build things — software, sound, and the visual layer around both. Good thoughts · good words · good deeds, in Old Persian cuneiform." width="100%">
+</p>
 
-I build things — software, sound, and the visual layer around both.
-
-<br>
+<p align="center">
+  <a href="https://x.com/RyanMahdavi">X @RyanMahdavi</a> ·
+  <a href="https://www.linkedin.com/in/ryanmahdavi">LinkedIn</a>
+</p>
